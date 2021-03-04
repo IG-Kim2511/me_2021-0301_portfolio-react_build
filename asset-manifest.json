@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/me_2021-0301_portfolio-react_build/static/css/main.1c6bd11e.chunk.css",
-    "main.js": "/me_2021-0301_portfolio-react_build/static/js/main.1bae171f.chunk.js",
-    "main.js.map": "/me_2021-0301_portfolio-react_build/static/js/main.1bae171f.chunk.js.map",
-    "runtime-main.js": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.96dd200d.js",
-    "runtime-main.js.map": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.96dd200d.js.map",
+    "main.css": "/me_2021-0301_portfolio-react_build/static/css/main.e4a35bb8.chunk.css",
+    "main.js": "/me_2021-0301_portfolio-react_build/static/js/main.356b6a93.chunk.js",
+    "main.js.map": "/me_2021-0301_portfolio-react_build/static/js/main.356b6a93.chunk.js.map",
+    "runtime-main.js": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.328e2a1f.js",
+    "runtime-main.js.map": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.328e2a1f.js.map",
     "static/css/2.86cc78a2.chunk.css": "/me_2021-0301_portfolio-react_build/static/css/2.86cc78a2.chunk.css",
-    "static/js/2.de08044d.chunk.js": "/me_2021-0301_portfolio-react_build/static/js/2.de08044d.chunk.js",
-    "static/js/2.de08044d.chunk.js.map": "/me_2021-0301_portfolio-react_build/static/js/2.de08044d.chunk.js.map",
-    "static/js/3.93573abd.chunk.js": "/me_2021-0301_portfolio-react_build/static/js/3.93573abd.chunk.js",
-    "static/js/3.93573abd.chunk.js.map": "/me_2021-0301_portfolio-react_build/static/js/3.93573abd.chunk.js.map",
+    "static/js/2.1de49855.chunk.js": "/me_2021-0301_portfolio-react_build/static/js/2.1de49855.chunk.js",
+    "static/js/2.1de49855.chunk.js.map": "/me_2021-0301_portfolio-react_build/static/js/2.1de49855.chunk.js.map",
+    "static/js/3.bd2a75db.chunk.js": "/me_2021-0301_portfolio-react_build/static/js/3.bd2a75db.chunk.js",
+    "static/js/3.bd2a75db.chunk.js.map": "/me_2021-0301_portfolio-react_build/static/js/3.bd2a75db.chunk.js.map",
     "index.html": "/me_2021-0301_portfolio-react_build/index.html",
     "static/css/2.86cc78a2.chunk.css.map": "/me_2021-0301_portfolio-react_build/static/css/2.86cc78a2.chunk.css.map",
-    "static/css/main.1c6bd11e.chunk.css.map": "/me_2021-0301_portfolio-react_build/static/css/main.1c6bd11e.chunk.css.map",
-    "static/js/2.de08044d.chunk.js.LICENSE.txt": "/me_2021-0301_portfolio-react_build/static/js/2.de08044d.chunk.js.LICENSE.txt",
+    "static/css/main.e4a35bb8.chunk.css.map": "/me_2021-0301_portfolio-react_build/static/css/main.e4a35bb8.chunk.css.map",
+    "static/js/2.1de49855.chunk.js.LICENSE.txt": "/me_2021-0301_portfolio-react_build/static/js/2.1de49855.chunk.js.LICENSE.txt",
     "static/media/avatar2.58e693ba.jpg": "/me_2021-0301_portfolio-react_build/static/media/avatar2.58e693ba.jpg",
     "static/media/App.css": "/me_2021-0301_portfolio-react_build/static/media/back-dot.e05b88b1.png",
     "static/media/semantic.min.css": "/me_2021-0301_portfolio-react_build/static/media/outline-icons.ddae9b1b.woff",
@@ -25,10 +25,10 @@
     "static/media/p-the road.0bb6e226.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-the road.0bb6e226.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96dd200d.js",
+    "static/js/runtime-main.328e2a1f.js",
     "static/css/2.86cc78a2.chunk.css",
-    "static/js/2.de08044d.chunk.js",
-    "static/css/main.1c6bd11e.chunk.css",
-    "static/js/main.1bae171f.chunk.js"
+    "static/js/2.1de49855.chunk.js",
+    "static/css/main.e4a35bb8.chunk.css",
+    "static/js/main.356b6a93.chunk.js"
   ]
 }
