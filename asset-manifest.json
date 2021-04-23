@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/me_2021-0301_portfolio-react_build/static/css/main.1e8ea4b5.chunk.css",
-    "main.js": "/me_2021-0301_portfolio-react_build/static/js/main.a7347148.chunk.js",
-    "main.js.map": "/me_2021-0301_portfolio-react_build/static/js/main.a7347148.chunk.js.map",
+    "main.js": "/me_2021-0301_portfolio-react_build/static/js/main.30d486fc.chunk.js",
+    "main.js.map": "/me_2021-0301_portfolio-react_build/static/js/main.30d486fc.chunk.js.map",
     "runtime-main.js": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.328e2a1f.js",
     "runtime-main.js.map": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.328e2a1f.js.map",
     "static/css/2.86cc78a2.chunk.css": "/me_2021-0301_portfolio-react_build/static/css/2.86cc78a2.chunk.css",
@@ -22,6 +22,7 @@
     "static/media/p-Sign-In-Sign-Up-Form-HCJ.ac07f465.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-Sign-In-Sign-Up-Form-HCJ.ac07f465.jpg",
     "static/media/p-cars.d7329f05.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-cars.d7329f05.jpg",
     "static/media/p-javascript-portfolio.c8cfb401.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-javascript-portfolio.c8cfb401.jpg",
+    "static/media/p-me_2021-0422-covid_project-js.45112180.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-me_2021-0422-covid_project-js.45112180.jpg",
     "static/media/p-portfolio_with_React,SCSS.e2b172fa.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-portfolio_with_React,SCSS.e2b172fa.jpg",
     "static/media/p-react-shop.a5555604.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-react-shop.a5555604.jpg",
     "static/media/p-the road.0bb6e226.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-the road.0bb6e226.jpg"
@@ -31,6 +32,6 @@
     "static/css/2.86cc78a2.chunk.css",
     "static/js/2.1de49855.chunk.js",
     "static/css/main.1e8ea4b5.chunk.css",
-    "static/js/main.a7347148.chunk.js"
+    "static/js/main.30d486fc.chunk.js"
   ]
 }
