@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/me_2021-0301_portfolio-react_build/static/css/main.1e8ea4b5.chunk.css",
-    "main.js": "/me_2021-0301_portfolio-react_build/static/js/main.30d486fc.chunk.js",
-    "main.js.map": "/me_2021-0301_portfolio-react_build/static/js/main.30d486fc.chunk.js.map",
+    "main.css": "/me_2021-0301_portfolio-react_build/static/css/main.578a0ce9.chunk.css",
+    "main.js": "/me_2021-0301_portfolio-react_build/static/js/main.f3e7bab0.chunk.js",
+    "main.js.map": "/me_2021-0301_portfolio-react_build/static/js/main.f3e7bab0.chunk.js.map",
     "runtime-main.js": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.328e2a1f.js",
     "runtime-main.js.map": "/me_2021-0301_portfolio-react_build/static/js/runtime-main.328e2a1f.js.map",
     "static/css/2.86cc78a2.chunk.css": "/me_2021-0301_portfolio-react_build/static/css/2.86cc78a2.chunk.css",
@@ -12,13 +12,14 @@
     "static/js/3.bd2a75db.chunk.js.map": "/me_2021-0301_portfolio-react_build/static/js/3.bd2a75db.chunk.js.map",
     "index.html": "/me_2021-0301_portfolio-react_build/index.html",
     "static/css/2.86cc78a2.chunk.css.map": "/me_2021-0301_portfolio-react_build/static/css/2.86cc78a2.chunk.css.map",
-    "static/css/main.1e8ea4b5.chunk.css.map": "/me_2021-0301_portfolio-react_build/static/css/main.1e8ea4b5.chunk.css.map",
+    "static/css/main.578a0ce9.chunk.css.map": "/me_2021-0301_portfolio-react_build/static/css/main.578a0ce9.chunk.css.map",
     "static/js/2.1de49855.chunk.js.LICENSE.txt": "/me_2021-0301_portfolio-react_build/static/js/2.1de49855.chunk.js.LICENSE.txt",
     "static/media/avatar2.58e693ba.jpg": "/me_2021-0301_portfolio-react_build/static/media/avatar2.58e693ba.jpg",
     "static/media/App.css": "/me_2021-0301_portfolio-react_build/static/media/back-dot.e05b88b1.png",
     "static/media/semantic.min.css": "/me_2021-0301_portfolio-react_build/static/media/outline-icons.ddae9b1b.woff",
     "static/media/c2021-0308_breakingbad_react_api.ab271a6a.jpg": "/me_2021-0301_portfolio-react_build/static/media/c2021-0308_breakingbad_react_api.ab271a6a.jpg",
     "static/media/c2021-0411_typingGame.fba87a11.jpg": "/me_2021-0301_portfolio-react_build/static/media/c2021-0411_typingGame.fba87a11.jpg",
+    "static/media/c2021-0610_todolist-js.ffb5a463.jpg": "/me_2021-0301_portfolio-react_build/static/media/c2021-0610_todolist-js.ffb5a463.jpg",
     "static/media/p-Sign-In-Sign-Up-Form-HCJ.ac07f465.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-Sign-In-Sign-Up-Form-HCJ.ac07f465.jpg",
     "static/media/p-cars.d7329f05.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-cars.d7329f05.jpg",
     "static/media/p-javascript-portfolio.c8cfb401.jpg": "/me_2021-0301_portfolio-react_build/static/media/p-javascript-portfolio.c8cfb401.jpg",
@@ -31,7 +32,7 @@
     "static/js/runtime-main.328e2a1f.js",
     "static/css/2.86cc78a2.chunk.css",
     "static/js/2.1de49855.chunk.js",
-    "static/css/main.1e8ea4b5.chunk.css",
-    "static/js/main.30d486fc.chunk.js"
+    "static/css/main.578a0ce9.chunk.css",
+    "static/js/main.f3e7bab0.chunk.js"
   ]
 }
